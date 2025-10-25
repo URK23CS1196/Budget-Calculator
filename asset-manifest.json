@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/URK23CS1196/Budget-Calculator.git/static/css/main.abf5176e.css",
+    "main.js": "/URK23CS1196/Budget-Calculator.git/static/js/main.b20c9767.js",
+    "static/js/453.ac015d55.chunk.js": "/URK23CS1196/Budget-Calculator.git/static/js/453.ac015d55.chunk.js",
+    "index.html": "/URK23CS1196/Budget-Calculator.git/index.html",
+    "main.abf5176e.css.map": "/URK23CS1196/Budget-Calculator.git/static/css/main.abf5176e.css.map",
+    "main.b20c9767.js.map": "/URK23CS1196/Budget-Calculator.git/static/js/main.b20c9767.js.map",
+    "453.ac015d55.chunk.js.map": "/URK23CS1196/Budget-Calculator.git/static/js/453.ac015d55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf5176e.css",
+    "static/js/main.b20c9767.js"
+  ]
+}
